@@ -1,10 +1,8 @@
 #!/usr/bin/python
 from random import shuffle
 from time import time
-
-
-# Create sample data
 from quick_sort_pivot_center import quick_sort
+
 
 total_function_time = 0
 total_builtin_time = 0
@@ -23,6 +21,7 @@ def do_print(txt):
 
 
 for i in range(test_number):
+    # Create sample data
     unsorted_list = [i for i in range(1, test_items + 1)]
     shuffle(unsorted_list)
 
