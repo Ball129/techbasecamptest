@@ -54,7 +54,9 @@ def partition_sort(array: list, low: int, high: int):
 
 
 def quick_sort(array: list, low: int, high: int,
-               depth: int = 0, depth_count: int = 0, swap_count: int = 0, statistics=False):
+               # Use to measure performance for this test.
+               depth: int = 0, depth_count: int = 0, swap_count: int = 0):
+
     if depth > depth_count:
         depth_count = depth
 
@@ -65,13 +67,10 @@ def quick_sort(array: list, low: int, high: int,
 
         # Left partition
         array, depth_count, swap_count = quick_sort(array, low, partition_point,
-                                                    depth+1, depth_count, swap_count, True)
+                                                    depth+1, depth_count, swap_count)
 
         # Right partition
         array, depth_count, swap_count = quick_sort(array, partition_point + 1, high,
-                                                    depth+1, depth_count, swap_count, True)
+                                                    depth+1, depth_count, swap_count)
 
-    if statistics:
-        return array, depth_count, swap_count
-    else:
-        return array
+    return array, depth_count, swap_count
