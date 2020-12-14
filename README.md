@@ -25,7 +25,7 @@ Now a=2, b=1
 #### <u>Solution:</u> [quick_sort_pivot_center.py](./quick_sort_pivot_center.py)
 
 ใช้ algorithm quicksort โดยใช้ค่า pivot จาก median of three (ค่าซ้ายสุด, กลาง, ขวาสุด) 
-เพื่อให้ได้ performance ที่ใกล้เคียงค่าสูงสุด O(n log n) มากที่สุด โดยสังเกตจากจำนวนครั้งที่ทำการสลับค่า (swap)
+เพื่อให้ได้ performance ที่ใกล้เคียงค่าสูงสุด O(n log n) มากที่สุด โดยสังเกตคร่าวๆได้จากจำนวนครั้งที่ทำการสลับค่า (swap)
 
 โดยจุุดเด่นของ quicksort คือ 
 * เข้าใจง่าย ไม่ซับซ้อน 
