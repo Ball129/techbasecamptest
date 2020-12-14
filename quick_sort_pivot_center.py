@@ -34,7 +34,7 @@ def partition_sort(array: list, low: int, high: int):
     # Do sort
     while True:
         if loop_limit <= 0:
-            raise
+            raise OverflowError
 
         while array[i] < pivot:
             i += 1
