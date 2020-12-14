@@ -1,10 +1,10 @@
 from math import floor
 
 # Test 1000 times, 100,000 items each
-# Average time: 0.44 s (207.88 times of builtin sorted)
-# Average recursive depth 40.686
-# Average swap 449327.814 (average-best performance of quicksort O(n log n))
-# algorithm ref: https://en.wikipedia.org/wiki/Quicksort
+# Average time: 0.43 s (198.13 times of builtin sorted)
+# Average recursive depth 40.174
+# Average swap 465013.845
+# algorithm ref: https://en.wikipedia.org/wiki/Quicksort, https://www.geeksforgeeks.org/quick-sort/
 
 
 def partition_sort(array: list, low: int, high: int):

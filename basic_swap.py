@@ -19,7 +19,7 @@ a = a - b
 
 print(f'Now a={a}, b={b}')
 
-# just swap
+# just swap (Python style)
 a, b = b, a
 
 print(f'Now a={a}, b={b}')

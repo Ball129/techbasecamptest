@@ -1,403 +1,503 @@
-0:> Start sorting 100000 numbers (1 - 100000)
-0:> Total time: 0.45 s (452.02 times of builtin sorted)
-0:> Max recursive depth 44
-0:> Total swap 463459
-10:> Start sorting 100000 numbers (1 - 100000)
-10:> Total time: 0.45 s (267.55 times of builtin sorted)
-10:> Max recursive depth 37
-10:> Total swap 464680
-20:> Start sorting 100000 numbers (1 - 100000)
-20:> Total time: 0.45 s (270.07 times of builtin sorted)
-20:> Max recursive depth 42
-20:> Total swap 467831
-30:> Start sorting 100000 numbers (1 - 100000)
-30:> Total time: 0.47 s (301.91 times of builtin sorted)
-30:> Max recursive depth 39
-30:> Total swap 469903
-40:> Start sorting 100000 numbers (1 - 100000)
-40:> Total time: 0.47 s (283.77 times of builtin sorted)
-40:> Max recursive depth 42
-40:> Total swap 461462
-50:> Start sorting 100000 numbers (1 - 100000)
-50:> Total time: 0.46 s (283.52 times of builtin sorted)
-50:> Max recursive depth 39
-50:> Total swap 464697
-60:> Start sorting 100000 numbers (1 - 100000)
-60:> Total time: 0.46 s (291.79 times of builtin sorted)
-60:> Max recursive depth 39
-60:> Total swap 461450
-70:> Start sorting 100000 numbers (1 - 100000)
-70:> Total time: 0.46 s (276.86 times of builtin sorted)
-70:> Max recursive depth 41
-70:> Total swap 460905
-80:> Start sorting 100000 numbers (1 - 100000)
-80:> Total time: 0.46 s (274.52 times of builtin sorted)
-80:> Max recursive depth 40
-80:> Total swap 461290
-90:> Start sorting 100000 numbers (1 - 100000)
-90:> Total time: 0.45 s (272.17 times of builtin sorted)
-90:> Max recursive depth 36
-90:> Total swap 469431
-100:> Start sorting 100000 numbers (1 - 100000)
-100:> Total time: 0.47 s (264.21 times of builtin sorted)
-100:> Max recursive depth 39
-100:> Total swap 461265
-110:> Start sorting 100000 numbers (1 - 100000)
-110:> Total time: 0.47 s (280.68 times of builtin sorted)
-110:> Max recursive depth 38
-110:> Total swap 466094
-120:> Start sorting 100000 numbers (1 - 100000)
-120:> Total time: 0.46 s (239.26 times of builtin sorted)
-120:> Max recursive depth 39
-120:> Total swap 464553
-130:> Start sorting 100000 numbers (1 - 100000)
-130:> Total time: 0.46 s (253.80 times of builtin sorted)
-130:> Max recursive depth 37
-130:> Total swap 464532
-140:> Start sorting 100000 numbers (1 - 100000)
-140:> Total time: 0.52 s (310.93 times of builtin sorted)
-140:> Max recursive depth 39
-140:> Total swap 462723
-150:> Start sorting 100000 numbers (1 - 100000)
-150:> Total time: 0.45 s (254.36 times of builtin sorted)
-150:> Max recursive depth 41
-150:> Total swap 458401
-160:> Start sorting 100000 numbers (1 - 100000)
-160:> Total time: 0.45 s (260.87 times of builtin sorted)
-160:> Max recursive depth 38
-160:> Total swap 460787
-170:> Start sorting 100000 numbers (1 - 100000)
-170:> Total time: 0.46 s (262.15 times of builtin sorted)
-170:> Max recursive depth 42
-170:> Total swap 462906
-180:> Start sorting 100000 numbers (1 - 100000)
-180:> Total time: 0.45 s (262.06 times of builtin sorted)
-180:> Max recursive depth 38
-180:> Total swap 465142
-190:> Start sorting 100000 numbers (1 - 100000)
-190:> Total time: 0.45 s (255.85 times of builtin sorted)
-190:> Max recursive depth 41
-190:> Total swap 464070
-200:> Start sorting 100000 numbers (1 - 100000)
-200:> Total time: 0.46 s (260.94 times of builtin sorted)
-200:> Max recursive depth 44
-200:> Total swap 466993
-210:> Start sorting 100000 numbers (1 - 100000)
-210:> Total time: 0.47 s (261.36 times of builtin sorted)
-210:> Max recursive depth 41
-210:> Total swap 465369
-220:> Start sorting 100000 numbers (1 - 100000)
-220:> Total time: 0.46 s (254.41 times of builtin sorted)
-220:> Max recursive depth 41
-220:> Total swap 465390
-230:> Start sorting 100000 numbers (1 - 100000)
-230:> Total time: 0.46 s (253.30 times of builtin sorted)
-230:> Max recursive depth 38
-230:> Total swap 466274
-240:> Start sorting 100000 numbers (1 - 100000)
-240:> Total time: 0.47 s (204.93 times of builtin sorted)
-240:> Max recursive depth 38
-240:> Total swap 464782
-250:> Start sorting 100000 numbers (1 - 100000)
-250:> Total time: 0.48 s (256.36 times of builtin sorted)
-250:> Max recursive depth 42
-250:> Total swap 464848
-260:> Start sorting 100000 numbers (1 - 100000)
-260:> Total time: 0.68 s (217.52 times of builtin sorted)
-260:> Max recursive depth 44
-260:> Total swap 465987
-270:> Start sorting 100000 numbers (1 - 100000)
-270:> Total time: 0.45 s (242.89 times of builtin sorted)
-270:> Max recursive depth 42
-270:> Total swap 465953
-280:> Start sorting 100000 numbers (1 - 100000)
-280:> Total time: 0.46 s (246.78 times of builtin sorted)
-280:> Max recursive depth 41
-280:> Total swap 467428
-290:> Start sorting 100000 numbers (1 - 100000)
-290:> Total time: 0.47 s (252.52 times of builtin sorted)
-290:> Max recursive depth 43
-290:> Total swap 462067
-300:> Start sorting 100000 numbers (1 - 100000)
-300:> Total time: 0.45 s (241.56 times of builtin sorted)
-300:> Max recursive depth 40
-300:> Total swap 462637
-310:> Start sorting 100000 numbers (1 - 100000)
-310:> Total time: 0.49 s (265.12 times of builtin sorted)
-310:> Max recursive depth 40
-310:> Total swap 462962
-320:> Start sorting 100000 numbers (1 - 100000)
-320:> Total time: 0.46 s (241.30 times of builtin sorted)
-320:> Max recursive depth 42
-320:> Total swap 460521
-330:> Start sorting 100000 numbers (1 - 100000)
-330:> Total time: 0.53 s (244.64 times of builtin sorted)
-330:> Max recursive depth 38
-330:> Total swap 462327
-340:> Start sorting 100000 numbers (1 - 100000)
-340:> Total time: 0.46 s (241.55 times of builtin sorted)
-340:> Max recursive depth 43
-340:> Total swap 466171
-350:> Start sorting 100000 numbers (1 - 100000)
-350:> Total time: 0.46 s (245.31 times of builtin sorted)
-350:> Max recursive depth 38
-350:> Total swap 458996
-360:> Start sorting 100000 numbers (1 - 100000)
-360:> Total time: 0.46 s (240.49 times of builtin sorted)
-360:> Max recursive depth 39
-360:> Total swap 468642
-370:> Start sorting 100000 numbers (1 - 100000)
-370:> Total time: 0.47 s (225.77 times of builtin sorted)
-370:> Max recursive depth 42
-370:> Total swap 467910
-380:> Start sorting 100000 numbers (1 - 100000)
-380:> Total time: 0.46 s (240.11 times of builtin sorted)
-380:> Max recursive depth 38
-380:> Total swap 464638
-390:> Start sorting 100000 numbers (1 - 100000)
-390:> Total time: 0.46 s (236.83 times of builtin sorted)
-390:> Max recursive depth 40
-390:> Total swap 465957
-400:> Start sorting 100000 numbers (1 - 100000)
-400:> Total time: 0.46 s (238.28 times of builtin sorted)
-400:> Max recursive depth 42
-400:> Total swap 463793
-410:> Start sorting 100000 numbers (1 - 100000)
-410:> Total time: 0.45 s (230.47 times of builtin sorted)
-410:> Max recursive depth 39
-410:> Total swap 469335
-420:> Start sorting 100000 numbers (1 - 100000)
-420:> Total time: 0.46 s (231.49 times of builtin sorted)
-420:> Max recursive depth 41
-420:> Total swap 461945
-430:> Start sorting 100000 numbers (1 - 100000)
-430:> Total time: 0.47 s (184.59 times of builtin sorted)
-430:> Max recursive depth 39
-430:> Total swap 459324
-440:> Start sorting 100000 numbers (1 - 100000)
-440:> Total time: 0.46 s (195.34 times of builtin sorted)
-440:> Max recursive depth 40
-440:> Total swap 463166
-450:> Start sorting 100000 numbers (1 - 100000)
-450:> Total time: 0.45 s (221.40 times of builtin sorted)
-450:> Max recursive depth 39
-450:> Total swap 463532
-460:> Start sorting 100000 numbers (1 - 100000)
-460:> Total time: 0.46 s (227.09 times of builtin sorted)
-460:> Max recursive depth 40
-460:> Total swap 461154
-470:> Start sorting 100000 numbers (1 - 100000)
-470:> Total time: 0.47 s (233.56 times of builtin sorted)
-470:> Max recursive depth 43
-470:> Total swap 465455
-480:> Start sorting 100000 numbers (1 - 100000)
-480:> Total time: 0.48 s (238.40 times of builtin sorted)
-480:> Max recursive depth 40
-480:> Total swap 468749
-490:> Start sorting 100000 numbers (1 - 100000)
-490:> Total time: 0.48 s (242.53 times of builtin sorted)
-490:> Max recursive depth 41
-490:> Total swap 462587
-500:> Start sorting 100000 numbers (1 - 100000)
-500:> Total time: 0.51 s (242.94 times of builtin sorted)
-500:> Max recursive depth 41
-500:> Total swap 462138
-510:> Start sorting 100000 numbers (1 - 100000)
-510:> Total time: 0.63 s (231.42 times of builtin sorted)
-510:> Max recursive depth 38
-510:> Total swap 467466
-520:> Start sorting 100000 numbers (1 - 100000)
-520:> Total time: 0.47 s (139.65 times of builtin sorted)
-520:> Max recursive depth 40
-520:> Total swap 466658
-530:> Start sorting 100000 numbers (1 - 100000)
-530:> Total time: 0.68 s (331.45 times of builtin sorted)
-530:> Max recursive depth 42
-530:> Total swap 464593
-540:> Start sorting 100000 numbers (1 - 100000)
-540:> Total time: 0.46 s (222.38 times of builtin sorted)
-540:> Max recursive depth 39
-540:> Total swap 464525
-550:> Start sorting 100000 numbers (1 - 100000)
-550:> Total time: 0.49 s (212.30 times of builtin sorted)
-550:> Max recursive depth 41
-550:> Total swap 467463
-560:> Start sorting 100000 numbers (1 - 100000)
-560:> Total time: 0.47 s (217.93 times of builtin sorted)
-560:> Max recursive depth 40
-560:> Total swap 469018
-570:> Start sorting 100000 numbers (1 - 100000)
-570:> Total time: 0.46 s (183.31 times of builtin sorted)
-570:> Max recursive depth 39
-570:> Total swap 461748
-580:> Start sorting 100000 numbers (1 - 100000)
-580:> Total time: 0.46 s (214.86 times of builtin sorted)
-580:> Max recursive depth 40
-580:> Total swap 465929
-590:> Start sorting 100000 numbers (1 - 100000)
-590:> Total time: 0.47 s (196.66 times of builtin sorted)
-590:> Max recursive depth 44
-590:> Total swap 465149
-600:> Start sorting 100000 numbers (1 - 100000)
-600:> Total time: 0.47 s (190.44 times of builtin sorted)
-600:> Max recursive depth 44
-600:> Total swap 466393
-610:> Start sorting 100000 numbers (1 - 100000)
-610:> Total time: 0.48 s (189.94 times of builtin sorted)
-610:> Max recursive depth 38
-610:> Total swap 466007
-620:> Start sorting 100000 numbers (1 - 100000)
-620:> Total time: 0.48 s (223.61 times of builtin sorted)
-620:> Max recursive depth 40
-620:> Total swap 463986
-630:> Start sorting 100000 numbers (1 - 100000)
-630:> Total time: 0.46 s (216.49 times of builtin sorted)
-630:> Max recursive depth 39
-630:> Total swap 461446
-640:> Start sorting 100000 numbers (1 - 100000)
-640:> Total time: 0.47 s (222.07 times of builtin sorted)
-640:> Max recursive depth 39
-640:> Total swap 467067
-650:> Start sorting 100000 numbers (1 - 100000)
-650:> Total time: 0.47 s (207.17 times of builtin sorted)
-650:> Max recursive depth 36
-650:> Total swap 467271
-660:> Start sorting 100000 numbers (1 - 100000)
-660:> Total time: 0.47 s (187.37 times of builtin sorted)
-660:> Max recursive depth 40
-660:> Total swap 465884
-670:> Start sorting 100000 numbers (1 - 100000)
-670:> Total time: 0.47 s (190.49 times of builtin sorted)
-670:> Max recursive depth 40
-670:> Total swap 468105
-680:> Start sorting 100000 numbers (1 - 100000)
-680:> Total time: 0.47 s (215.06 times of builtin sorted)
-680:> Max recursive depth 41
-680:> Total swap 464884
-690:> Start sorting 100000 numbers (1 - 100000)
-690:> Total time: 0.47 s (211.02 times of builtin sorted)
-690:> Max recursive depth 40
-690:> Total swap 464329
-700:> Start sorting 100000 numbers (1 - 100000)
-700:> Total time: 0.47 s (213.15 times of builtin sorted)
-700:> Max recursive depth 39
-700:> Total swap 467241
-710:> Start sorting 100000 numbers (1 - 100000)
-710:> Total time: 0.47 s (180.49 times of builtin sorted)
-710:> Max recursive depth 37
-710:> Total swap 462646
-720:> Start sorting 100000 numbers (1 - 100000)
-720:> Total time: 0.46 s (207.53 times of builtin sorted)
-720:> Max recursive depth 41
-720:> Total swap 466349
-730:> Start sorting 100000 numbers (1 - 100000)
-730:> Total time: 0.45 s (200.19 times of builtin sorted)
-730:> Max recursive depth 40
-730:> Total swap 467706
-740:> Start sorting 100000 numbers (1 - 100000)
-740:> Total time: 0.46 s (195.86 times of builtin sorted)
-740:> Max recursive depth 37
-740:> Total swap 468157
-750:> Start sorting 100000 numbers (1 - 100000)
-750:> Total time: 0.46 s (202.78 times of builtin sorted)
-750:> Max recursive depth 39
-750:> Total swap 463669
-760:> Start sorting 100000 numbers (1 - 100000)
-760:> Total time: 0.45 s (202.52 times of builtin sorted)
-760:> Max recursive depth 42
-760:> Total swap 465164
-770:> Start sorting 100000 numbers (1 - 100000)
-770:> Total time: 0.52 s (229.80 times of builtin sorted)
-770:> Max recursive depth 38
-770:> Total swap 468742
-780:> Start sorting 100000 numbers (1 - 100000)
-780:> Total time: 0.46 s (206.54 times of builtin sorted)
-780:> Max recursive depth 40
-780:> Total swap 465236
-790:> Start sorting 100000 numbers (1 - 100000)
-790:> Total time: 0.47 s (182.91 times of builtin sorted)
-790:> Max recursive depth 39
-790:> Total swap 463227
-800:> Start sorting 100000 numbers (1 - 100000)
-800:> Total time: 0.49 s (213.38 times of builtin sorted)
-800:> Max recursive depth 39
-800:> Total swap 467197
-810:> Start sorting 100000 numbers (1 - 100000)
-810:> Total time: 0.50 s (211.88 times of builtin sorted)
-810:> Max recursive depth 38
-810:> Total swap 461638
-820:> Start sorting 100000 numbers (1 - 100000)
-820:> Total time: 0.48 s (170.41 times of builtin sorted)
-820:> Max recursive depth 41
-820:> Total swap 465120
-830:> Start sorting 100000 numbers (1 - 100000)
-830:> Total time: 0.46 s (193.02 times of builtin sorted)
-830:> Max recursive depth 40
-830:> Total swap 464241
-840:> Start sorting 100000 numbers (1 - 100000)
-840:> Total time: 0.45 s (193.70 times of builtin sorted)
-840:> Max recursive depth 41
-840:> Total swap 464128
-850:> Start sorting 100000 numbers (1 - 100000)
-850:> Total time: 0.45 s (194.57 times of builtin sorted)
-850:> Max recursive depth 43
-850:> Total swap 464150
-860:> Start sorting 100000 numbers (1 - 100000)
-860:> Total time: 0.46 s (194.39 times of builtin sorted)
-860:> Max recursive depth 40
-860:> Total swap 461222
-870:> Start sorting 100000 numbers (1 - 100000)
-870:> Total time: 0.46 s (168.26 times of builtin sorted)
-870:> Max recursive depth 39
-870:> Total swap 465526
-880:> Start sorting 100000 numbers (1 - 100000)
-880:> Total time: 0.45 s (135.24 times of builtin sorted)
-880:> Max recursive depth 41
-880:> Total swap 464326
-890:> Start sorting 100000 numbers (1 - 100000)
-890:> Total time: 0.45 s (184.19 times of builtin sorted)
-890:> Max recursive depth 37
-890:> Total swap 460651
-900:> Start sorting 100000 numbers (1 - 100000)
-900:> Total time: 0.46 s (189.79 times of builtin sorted)
-900:> Max recursive depth 42
-900:> Total swap 465339
-910:> Start sorting 100000 numbers (1 - 100000)
-910:> Total time: 0.46 s (191.17 times of builtin sorted)
-910:> Max recursive depth 38
-910:> Total swap 463602
-920:> Start sorting 100000 numbers (1 - 100000)
-920:> Total time: 0.45 s (187.04 times of builtin sorted)
-920:> Max recursive depth 36
-920:> Total swap 464030
-930:> Start sorting 100000 numbers (1 - 100000)
-930:> Total time: 0.47 s (163.83 times of builtin sorted)
-930:> Max recursive depth 39
-930:> Total swap 467179
-940:> Start sorting 100000 numbers (1 - 100000)
-940:> Total time: 0.49 s (200.33 times of builtin sorted)
-940:> Max recursive depth 39
-940:> Total swap 465648
-950:> Start sorting 100000 numbers (1 - 100000)
-950:> Total time: 0.59 s (152.88 times of builtin sorted)
-950:> Max recursive depth 39
-950:> Total swap 463375
-960:> Start sorting 100000 numbers (1 - 100000)
-960:> Total time: 0.48 s (177.60 times of builtin sorted)
-960:> Max recursive depth 41
-960:> Total swap 462615
-970:> Start sorting 100000 numbers (1 - 100000)
-970:> Total time: 0.48 s (195.45 times of builtin sorted)
-970:> Max recursive depth 37
-970:> Total swap 462864
-980:> Start sorting 100000 numbers (1 - 100000)
-980:> Total time: 0.48 s (194.25 times of builtin sorted)
-980:> Max recursive depth 39
-980:> Total swap 460955
-990:> Start sorting 100000 numbers (1 - 100000)
-990:> Total time: 0.47 s (193.65 times of builtin sorted)
-990:> Max recursive depth 39
-990:> Total swap 464883
-Average time: 0.47 s (214.88 times of builtin sorted)
-Average recursive depth 40.038
-Average swap 464728.299
+Sorting 100000 numbers (1 - 100000)
+Loop 0:> Total time: 0.41 s (412.57 times of builtin sorted)
+Loop 0:> Max recursive depth 44
+Loop 0:> Total swap 464333
+
+Sorting 100000 numbers (1 - 100000)
+Loop 10:> Total time: 0.42 s (239.62 times of builtin sorted)
+Loop 10:> Max recursive depth 42
+Loop 10:> Total swap 466094
+
+Sorting 100000 numbers (1 - 100000)
+Loop 20:> Total time: 0.47 s (264.32 times of builtin sorted)
+Loop 20:> Max recursive depth 38
+Loop 20:> Total swap 464678
+
+Sorting 100000 numbers (1 - 100000)
+Loop 30:> Total time: 0.42 s (231.35 times of builtin sorted)
+Loop 30:> Max recursive depth 38
+Loop 30:> Total swap 464294
+
+Sorting 100000 numbers (1 - 100000)
+Loop 40:> Total time: 0.42 s (272.43 times of builtin sorted)
+Loop 40:> Max recursive depth 40
+Loop 40:> Total swap 467834
+
+Sorting 100000 numbers (1 - 100000)
+Loop 50:> Total time: 0.42 s (273.48 times of builtin sorted)
+Loop 50:> Max recursive depth 43
+Loop 50:> Total swap 462458
+
+Sorting 100000 numbers (1 - 100000)
+Loop 60:> Total time: 0.42 s (269.22 times of builtin sorted)
+Loop 60:> Max recursive depth 41
+Loop 60:> Total swap 461275
+
+Sorting 100000 numbers (1 - 100000)
+Loop 70:> Total time: 0.42 s (269.29 times of builtin sorted)
+Loop 70:> Max recursive depth 41
+Loop 70:> Total swap 465484
+
+Sorting 100000 numbers (1 - 100000)
+Loop 80:> Total time: 0.43 s (271.74 times of builtin sorted)
+Loop 80:> Max recursive depth 40
+Loop 80:> Total swap 465297
+
+Sorting 100000 numbers (1 - 100000)
+Loop 90:> Total time: 0.55 s (346.31 times of builtin sorted)
+Loop 90:> Max recursive depth 40
+Loop 90:> Total swap 466182
+
+Sorting 100000 numbers (1 - 100000)
+Loop 100:> Total time: 0.42 s (248.01 times of builtin sorted)
+Loop 100:> Max recursive depth 37
+Loop 100:> Total swap 468430
+
+Sorting 100000 numbers (1 - 100000)
+Loop 110:> Total time: 0.44 s (263.82 times of builtin sorted)
+Loop 110:> Max recursive depth 40
+Loop 110:> Total swap 464410
+
+Sorting 100000 numbers (1 - 100000)
+Loop 120:> Total time: 0.44 s (266.39 times of builtin sorted)
+Loop 120:> Max recursive depth 39
+Loop 120:> Total swap 464437
+
+Sorting 100000 numbers (1 - 100000)
+Loop 130:> Total time: 0.45 s (274.83 times of builtin sorted)
+Loop 130:> Max recursive depth 40
+Loop 130:> Total swap 468328
+
+Sorting 100000 numbers (1 - 100000)
+Loop 140:> Total time: 0.44 s (257.06 times of builtin sorted)
+Loop 140:> Max recursive depth 42
+Loop 140:> Total swap 464789
+
+Sorting 100000 numbers (1 - 100000)
+Loop 150:> Total time: 0.44 s (256.17 times of builtin sorted)
+Loop 150:> Max recursive depth 45
+Loop 150:> Total swap 464931
+
+Sorting 100000 numbers (1 - 100000)
+Loop 160:> Total time: 0.43 s (262.24 times of builtin sorted)
+Loop 160:> Max recursive depth 43
+Loop 160:> Total swap 463700
+
+Sorting 100000 numbers (1 - 100000)
+Loop 170:> Total time: 0.43 s (208.71 times of builtin sorted)
+Loop 170:> Max recursive depth 44
+Loop 170:> Total swap 469514
+
+Sorting 100000 numbers (1 - 100000)
+Loop 180:> Total time: 0.42 s (256.26 times of builtin sorted)
+Loop 180:> Max recursive depth 39
+Loop 180:> Total swap 463827
+
+Sorting 100000 numbers (1 - 100000)
+Loop 190:> Total time: 0.44 s (234.35 times of builtin sorted)
+Loop 190:> Max recursive depth 40
+Loop 190:> Total swap 467620
+
+Sorting 100000 numbers (1 - 100000)
+Loop 200:> Total time: 0.48 s (233.80 times of builtin sorted)
+Loop 200:> Max recursive depth 40
+Loop 200:> Total swap 469333
+
+Sorting 100000 numbers (1 - 100000)
+Loop 210:> Total time: 0.43 s (234.19 times of builtin sorted)
+Loop 210:> Max recursive depth 37
+Loop 210:> Total swap 461373
+
+Sorting 100000 numbers (1 - 100000)
+Loop 220:> Total time: 0.52 s (269.34 times of builtin sorted)
+Loop 220:> Max recursive depth 40
+Loop 220:> Total swap 464188
+
+Sorting 100000 numbers (1 - 100000)
+Loop 230:> Total time: 0.41 s (236.60 times of builtin sorted)
+Loop 230:> Max recursive depth 43
+Loop 230:> Total swap 461315
+
+Sorting 100000 numbers (1 - 100000)
+Loop 240:> Total time: 0.42 s (246.93 times of builtin sorted)
+Loop 240:> Max recursive depth 38
+Loop 240:> Total swap 469074
+
+Sorting 100000 numbers (1 - 100000)
+Loop 250:> Total time: 0.44 s (221.00 times of builtin sorted)
+Loop 250:> Max recursive depth 45
+Loop 250:> Total swap 467022
+
+Sorting 100000 numbers (1 - 100000)
+Loop 260:> Total time: 0.49 s (264.62 times of builtin sorted)
+Loop 260:> Max recursive depth 40
+Loop 260:> Total swap 466531
+
+Sorting 100000 numbers (1 - 100000)
+Loop 270:> Total time: 0.43 s (200.22 times of builtin sorted)
+Loop 270:> Max recursive depth 40
+Loop 270:> Total swap 461198
+
+Sorting 100000 numbers (1 - 100000)
+Loop 280:> Total time: 0.43 s (239.83 times of builtin sorted)
+Loop 280:> Max recursive depth 37
+Loop 280:> Total swap 469051
+
+Sorting 100000 numbers (1 - 100000)
+Loop 290:> Total time: 0.43 s (236.53 times of builtin sorted)
+Loop 290:> Max recursive depth 42
+Loop 290:> Total swap 462616
+
+Sorting 100000 numbers (1 - 100000)
+Loop 300:> Total time: 0.43 s (242.38 times of builtin sorted)
+Loop 300:> Max recursive depth 40
+Loop 300:> Total swap 465453
+
+Sorting 100000 numbers (1 - 100000)
+Loop 310:> Total time: 0.45 s (190.87 times of builtin sorted)
+Loop 310:> Max recursive depth 40
+Loop 310:> Total swap 467142
+
+Sorting 100000 numbers (1 - 100000)
+Loop 320:> Total time: 0.46 s (199.34 times of builtin sorted)
+Loop 320:> Max recursive depth 40
+Loop 320:> Total swap 467633
+
+Sorting 100000 numbers (1 - 100000)
+Loop 330:> Total time: 0.42 s (213.48 times of builtin sorted)
+Loop 330:> Max recursive depth 39
+Loop 330:> Total swap 463526
+
+Sorting 100000 numbers (1 - 100000)
+Loop 340:> Total time: 0.43 s (226.48 times of builtin sorted)
+Loop 340:> Max recursive depth 41
+Loop 340:> Total swap 469039
+
+Sorting 100000 numbers (1 - 100000)
+Loop 350:> Total time: 0.43 s (203.08 times of builtin sorted)
+Loop 350:> Max recursive depth 42
+Loop 350:> Total swap 463234
+
+Sorting 100000 numbers (1 - 100000)
+Loop 360:> Total time: 0.42 s (219.77 times of builtin sorted)
+Loop 360:> Max recursive depth 39
+Loop 360:> Total swap 466156
+
+Sorting 100000 numbers (1 - 100000)
+Loop 370:> Total time: 0.42 s (223.28 times of builtin sorted)
+Loop 370:> Max recursive depth 39
+Loop 370:> Total swap 462828
+
+Sorting 100000 numbers (1 - 100000)
+Loop 380:> Total time: 0.43 s (229.09 times of builtin sorted)
+Loop 380:> Max recursive depth 41
+Loop 380:> Total swap 465196
+
+Sorting 100000 numbers (1 - 100000)
+Loop 390:> Total time: 0.42 s (223.99 times of builtin sorted)
+Loop 390:> Max recursive depth 39
+Loop 390:> Total swap 462441
+
+Sorting 100000 numbers (1 - 100000)
+Loop 400:> Total time: 0.42 s (220.38 times of builtin sorted)
+Loop 400:> Max recursive depth 45
+Loop 400:> Total swap 465574
+
+Sorting 100000 numbers (1 - 100000)
+Loop 410:> Total time: 0.42 s (219.18 times of builtin sorted)
+Loop 410:> Max recursive depth 39
+Loop 410:> Total swap 466527
+
+Sorting 100000 numbers (1 - 100000)
+Loop 420:> Total time: 0.42 s (198.96 times of builtin sorted)
+Loop 420:> Max recursive depth 39
+Loop 420:> Total swap 463487
+
+Sorting 100000 numbers (1 - 100000)
+Loop 430:> Total time: 0.42 s (216.92 times of builtin sorted)
+Loop 430:> Max recursive depth 42
+Loop 430:> Total swap 466369
+
+Sorting 100000 numbers (1 - 100000)
+Loop 440:> Total time: 0.41 s (192.62 times of builtin sorted)
+Loop 440:> Max recursive depth 39
+Loop 440:> Total swap 466514
+
+Sorting 100000 numbers (1 - 100000)
+Loop 450:> Total time: 0.42 s (216.76 times of builtin sorted)
+Loop 450:> Max recursive depth 43
+Loop 450:> Total swap 468368
+
+Sorting 100000 numbers (1 - 100000)
+Loop 460:> Total time: 0.42 s (185.69 times of builtin sorted)
+Loop 460:> Max recursive depth 40
+Loop 460:> Total swap 459887
+
+Sorting 100000 numbers (1 - 100000)
+Loop 470:> Total time: 0.42 s (199.01 times of builtin sorted)
+Loop 470:> Max recursive depth 42
+Loop 470:> Total swap 466444
+
+Sorting 100000 numbers (1 - 100000)
+Loop 480:> Total time: 0.43 s (220.37 times of builtin sorted)
+Loop 480:> Max recursive depth 47
+Loop 480:> Total swap 466040
+
+Sorting 100000 numbers (1 - 100000)
+Loop 490:> Total time: 0.42 s (192.79 times of builtin sorted)
+Loop 490:> Max recursive depth 38
+Loop 490:> Total swap 466849
+
+Sorting 100000 numbers (1 - 100000)
+Loop 500:> Total time: 0.42 s (207.91 times of builtin sorted)
+Loop 500:> Max recursive depth 39
+Loop 500:> Total swap 466352
+
+Sorting 100000 numbers (1 - 100000)
+Loop 510:> Total time: 0.43 s (214.86 times of builtin sorted)
+Loop 510:> Max recursive depth 42
+Loop 510:> Total swap 464610
+
+Sorting 100000 numbers (1 - 100000)
+Loop 520:> Total time: 0.42 s (210.79 times of builtin sorted)
+Loop 520:> Max recursive depth 42
+Loop 520:> Total swap 464611
+
+Sorting 100000 numbers (1 - 100000)
+Loop 530:> Total time: 0.40 s (194.82 times of builtin sorted)
+Loop 530:> Max recursive depth 36
+Loop 530:> Total swap 459443
+
+Sorting 100000 numbers (1 - 100000)
+Loop 540:> Total time: 0.42 s (181.11 times of builtin sorted)
+Loop 540:> Max recursive depth 40
+Loop 540:> Total swap 464934
+
+Sorting 100000 numbers (1 - 100000)
+Loop 550:> Total time: 0.42 s (204.41 times of builtin sorted)
+Loop 550:> Max recursive depth 43
+Loop 550:> Total swap 467083
+
+Sorting 100000 numbers (1 - 100000)
+Loop 560:> Total time: 0.42 s (186.05 times of builtin sorted)
+Loop 560:> Max recursive depth 40
+Loop 560:> Total swap 465653
+
+Sorting 100000 numbers (1 - 100000)
+Loop 570:> Total time: 0.42 s (205.02 times of builtin sorted)
+Loop 570:> Max recursive depth 39
+Loop 570:> Total swap 464432
+
+Sorting 100000 numbers (1 - 100000)
+Loop 580:> Total time: 0.51 s (198.35 times of builtin sorted)
+Loop 580:> Max recursive depth 40
+Loop 580:> Total swap 464561
+
+Sorting 100000 numbers (1 - 100000)
+Loop 590:> Total time: 0.43 s (201.57 times of builtin sorted)
+Loop 590:> Max recursive depth 40
+Loop 590:> Total swap 466805
+
+Sorting 100000 numbers (1 - 100000)
+Loop 600:> Total time: 0.50 s (240.82 times of builtin sorted)
+Loop 600:> Max recursive depth 42
+Loop 600:> Total swap 465783
+
+Sorting 100000 numbers (1 - 100000)
+Loop 610:> Total time: 0.44 s (209.32 times of builtin sorted)
+Loop 610:> Max recursive depth 41
+Loop 610:> Total swap 467296
+
+Sorting 100000 numbers (1 - 100000)
+Loop 620:> Total time: 0.43 s (202.02 times of builtin sorted)
+Loop 620:> Max recursive depth 40
+Loop 620:> Total swap 465767
+
+Sorting 100000 numbers (1 - 100000)
+Loop 630:> Total time: 0.42 s (181.80 times of builtin sorted)
+Loop 630:> Max recursive depth 41
+Loop 630:> Total swap 465037
+
+Sorting 100000 numbers (1 - 100000)
+Loop 640:> Total time: 0.42 s (167.06 times of builtin sorted)
+Loop 640:> Max recursive depth 42
+Loop 640:> Total swap 471136
+
+Sorting 100000 numbers (1 - 100000)
+Loop 650:> Total time: 0.43 s (200.15 times of builtin sorted)
+Loop 650:> Max recursive depth 38
+Loop 650:> Total swap 467879
+
+Sorting 100000 numbers (1 - 100000)
+Loop 660:> Total time: 0.42 s (194.37 times of builtin sorted)
+Loop 660:> Max recursive depth 41
+Loop 660:> Total swap 465955
+
+Sorting 100000 numbers (1 - 100000)
+Loop 670:> Total time: 0.43 s (196.94 times of builtin sorted)
+Loop 670:> Max recursive depth 43
+Loop 670:> Total swap 467308
+
+Sorting 100000 numbers (1 - 100000)
+Loop 680:> Total time: 0.43 s (195.26 times of builtin sorted)
+Loop 680:> Max recursive depth 40
+Loop 680:> Total swap 464212
+
+Sorting 100000 numbers (1 - 100000)
+Loop 690:> Total time: 0.43 s (183.13 times of builtin sorted)
+Loop 690:> Max recursive depth 40
+Loop 690:> Total swap 469052
+
+Sorting 100000 numbers (1 - 100000)
+Loop 700:> Total time: 0.43 s (178.49 times of builtin sorted)
+Loop 700:> Max recursive depth 39
+Loop 700:> Total swap 467821
+
+Sorting 100000 numbers (1 - 100000)
+Loop 710:> Total time: 0.44 s (199.92 times of builtin sorted)
+Loop 710:> Max recursive depth 41
+Loop 710:> Total swap 465643
+
+Sorting 100000 numbers (1 - 100000)
+Loop 720:> Total time: 0.42 s (155.39 times of builtin sorted)
+Loop 720:> Max recursive depth 40
+Loop 720:> Total swap 460232
+
+Sorting 100000 numbers (1 - 100000)
+Loop 730:> Total time: 0.42 s (186.80 times of builtin sorted)
+Loop 730:> Max recursive depth 38
+Loop 730:> Total swap 463548
+
+Sorting 100000 numbers (1 - 100000)
+Loop 740:> Total time: 0.42 s (177.71 times of builtin sorted)
+Loop 740:> Max recursive depth 40
+Loop 740:> Total swap 465698
+
+Sorting 100000 numbers (1 - 100000)
+Loop 750:> Total time: 0.42 s (185.94 times of builtin sorted)
+Loop 750:> Max recursive depth 39
+Loop 750:> Total swap 468956
+
+Sorting 100000 numbers (1 - 100000)
+Loop 760:> Total time: 0.43 s (163.29 times of builtin sorted)
+Loop 760:> Max recursive depth 37
+Loop 760:> Total swap 465008
+
+Sorting 100000 numbers (1 - 100000)
+Loop 770:> Total time: 0.42 s (185.35 times of builtin sorted)
+Loop 770:> Max recursive depth 41
+Loop 770:> Total swap 466610
+
+Sorting 100000 numbers (1 - 100000)
+Loop 780:> Total time: 0.42 s (185.64 times of builtin sorted)
+Loop 780:> Max recursive depth 39
+Loop 780:> Total swap 465533
+
+Sorting 100000 numbers (1 - 100000)
+Loop 790:> Total time: 0.42 s (181.69 times of builtin sorted)
+Loop 790:> Max recursive depth 43
+Loop 790:> Total swap 465628
+
+Sorting 100000 numbers (1 - 100000)
+Loop 800:> Total time: 0.42 s (181.48 times of builtin sorted)
+Loop 800:> Max recursive depth 43
+Loop 800:> Total swap 463486
+
+Sorting 100000 numbers (1 - 100000)
+Loop 810:> Total time: 0.44 s (177.45 times of builtin sorted)
+Loop 810:> Max recursive depth 43
+Loop 810:> Total swap 465811
+
+Sorting 100000 numbers (1 - 100000)
+Loop 820:> Total time: 0.41 s (179.82 times of builtin sorted)
+Loop 820:> Max recursive depth 44
+Loop 820:> Total swap 462696
+
+Sorting 100000 numbers (1 - 100000)
+Loop 830:> Total time: 0.48 s (186.71 times of builtin sorted)
+Loop 830:> Max recursive depth 44
+Loop 830:> Total swap 466412
+
+Sorting 100000 numbers (1 - 100000)
+Loop 840:> Total time: 0.42 s (180.41 times of builtin sorted)
+Loop 840:> Max recursive depth 39
+Loop 840:> Total swap 467943
+
+Sorting 100000 numbers (1 - 100000)
+Loop 850:> Total time: 0.42 s (176.12 times of builtin sorted)
+Loop 850:> Max recursive depth 38
+Loop 850:> Total swap 465847
+
+Sorting 100000 numbers (1 - 100000)
+Loop 860:> Total time: 0.42 s (175.15 times of builtin sorted)
+Loop 860:> Max recursive depth 39
+Loop 860:> Total swap 462765
+
+Sorting 100000 numbers (1 - 100000)
+Loop 870:> Total time: 0.42 s (176.04 times of builtin sorted)
+Loop 870:> Max recursive depth 43
+Loop 870:> Total swap 469072
+
+Sorting 100000 numbers (1 - 100000)
+Loop 880:> Total time: 0.42 s (172.11 times of builtin sorted)
+Loop 880:> Max recursive depth 38
+Loop 880:> Total swap 465448
+
+Sorting 100000 numbers (1 - 100000)
+Loop 890:> Total time: 0.42 s (177.82 times of builtin sorted)
+Loop 890:> Max recursive depth 38
+Loop 890:> Total swap 466169
+
+Sorting 100000 numbers (1 - 100000)
+Loop 900:> Total time: 0.52 s (122.45 times of builtin sorted)
+Loop 900:> Max recursive depth 44
+Loop 900:> Total swap 463322
+
+Sorting 100000 numbers (1 - 100000)
+Loop 910:> Total time: 0.44 s (186.16 times of builtin sorted)
+Loop 910:> Max recursive depth 41
+Loop 910:> Total swap 461771
+
+Sorting 100000 numbers (1 - 100000)
+Loop 920:> Total time: 0.52 s (165.76 times of builtin sorted)
+Loop 920:> Max recursive depth 41
+Loop 920:> Total swap 466111
+
+Sorting 100000 numbers (1 - 100000)
+Loop 930:> Total time: 0.58 s (140.99 times of builtin sorted)
+Loop 930:> Max recursive depth 38
+Loop 930:> Total swap 466911
+
+Sorting 100000 numbers (1 - 100000)
+Loop 940:> Total time: 0.46 s (167.99 times of builtin sorted)
+Loop 940:> Max recursive depth 38
+Loop 940:> Total swap 466897
+
+Sorting 100000 numbers (1 - 100000)
+Loop 950:> Total time: 0.42 s (177.05 times of builtin sorted)
+Loop 950:> Max recursive depth 43
+Loop 950:> Total swap 466437
+
+Sorting 100000 numbers (1 - 100000)
+Loop 960:> Total time: 0.42 s (175.90 times of builtin sorted)
+Loop 960:> Max recursive depth 39
+Loop 960:> Total swap 466733
+
+Sorting 100000 numbers (1 - 100000)
+Loop 970:> Total time: 0.42 s (175.74 times of builtin sorted)
+Loop 970:> Max recursive depth 41
+Loop 970:> Total swap 465819
+
+Sorting 100000 numbers (1 - 100000)
+Loop 980:> Total time: 0.45 s (182.58 times of builtin sorted)
+Loop 980:> Max recursive depth 44
+Loop 980:> Total swap 469035
+
+Sorting 100000 numbers (1 - 100000)
+Loop 990:> Total time: 0.43 s (174.29 times of builtin sorted)
+Loop 990:> Max recursive depth 40
+Loop 990:> Total swap 462801
+
+Average time: 0.43 s (198.13 times of builtin sorted)
+Average recursive depth 40.174
+Average swap 465013.845
